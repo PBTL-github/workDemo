@@ -1,6 +1,5 @@
 import { User } from "../entity/User";
 import { AppDataSource } from "../data-source";
-import app from "../server";
 
 // 注册
 const register = async (ctx: any) => {
